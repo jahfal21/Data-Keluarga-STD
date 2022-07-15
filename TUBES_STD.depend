@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1641261890 source:d:\kuliah fahrein\semester 3\struktur data\tugas\tubes_std\main.cpp
+	"keluarga.h"
+	<stdlib.h>
+
+1641261890 d:\kuliah fahrein\semester 3\struktur data\tugas\tubes_std\keluarga.h
+	<iostream>
+
+1641262152 source:d:\kuliah fahrein\semester 3\struktur data\tugas\tubes_std\keluarga.cpp
+	"keluarga.h"
+
+1641511853 source:c:\users\user\downloads\tubes std jahfal dan sulthan\keluarga.cpp
+	"keluarga.h"
+
+1641207890 c:\users\user\downloads\tubes std jahfal dan sulthan\keluarga.h
+	<iostream>
+
+1641510990 source:c:\users\user\downloads\tubes std jahfal dan sulthan\main.cpp
+	"keluarga.h"
+	<stdlib.h>
+
